@@ -203,7 +203,7 @@ Simply build the image and run a container as follows:
     $ docker build -t qr .
     $ docker run --privileged --rm -e CI=true qr
 
-Note: You must run in privileged mode, otherwise the `maxima` command will fail.
+Note: You must run in privileged mode, otherwise the `maxima` command will fail
 
 If you want to check the generated files, you can mount the local directory in the Docker container (but still use the `vendor` directory of the container), as follows:
 
