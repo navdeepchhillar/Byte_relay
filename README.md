@@ -7,7 +7,7 @@
 [QR.rb](https://github.com/mame/quine-relay/blob/master/QR.rb) is a Ruby program that generates
 a Rust program that generates
 a Scala program that generates
-...(through 128 languages in total)...
+....(through 128 languages in total)....
 a REXX program that generates
 the original Ruby code again.
 
